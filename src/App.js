@@ -6,6 +6,9 @@ function App() {
 		<div className='App'>
 			<ul>
 				<li>
+					Clone the repo and go to develop branch. Using -- git checkout develop
+				</li>
+				<li>
 					First git checkout -b 'your branchname' ---- ex: feature/loginform
 				</li>
 				<li>All the work</li>
